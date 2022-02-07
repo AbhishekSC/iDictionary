@@ -8,6 +8,7 @@ from win32com.client import Dispatch
 import time
 from plyer import notification
 
+# Created by Abhishek singh
 class SearchApp:
     def __init__(self, root):
         self.root= root
